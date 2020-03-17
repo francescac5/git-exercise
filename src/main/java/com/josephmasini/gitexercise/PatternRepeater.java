@@ -4,7 +4,7 @@ public class PatternRepeater {
 
     /* Implement method to sort an array of integers */
 
-      public static String sortString(String inputString)
+      ublic static String sortString(String inputString)
     {
         // convert input string to char array
         char tempArray[] = inputString.toCharArray();
