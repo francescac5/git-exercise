@@ -1,10 +1,10 @@
-package com.josephmasini.gitexercise;
+import java.util.Arrays;
 
 public class PatternRepeater {
 
     /* Implement method to sort an array of integers */
 
-      ublic static String sortString(String inputString)
+      public static String sortString(String inputString)
     {
         // convert input string to char array
         char tempArray[] = inputString.toCharArray();
