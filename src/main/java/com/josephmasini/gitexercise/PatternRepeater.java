@@ -6,6 +6,7 @@ public class PatternRepeater {
 
       public static String sortString(String inputString)
     {
+          {
         // convert input string to char array
         char tempArray[] = inputString.toCharArray();
 
@@ -14,6 +15,7 @@ public class PatternRepeater {
 
         // return new sorted string
         return new String(tempArray);
+      }
     }
 
 }
